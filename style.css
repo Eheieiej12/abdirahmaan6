@@ -1,0 +1,48 @@
+body{
+	background-color: black;
+}
+.header{
+	display: flex;
+}
+.aq{
+	flex-basis: 50%;
+}
+.aw{
+	flex-basis: 50%;
+}
+.aq h1{
+	color: pink;
+}
+.aq p{
+	color: yellow;
+}
+.save{
+	display: flex;
+}
+.van{
+	flex-basis: 50%;
+	 margin: 20px;
+     padding: 20px;
+}
+.as{
+	flex-basis: 50%;
+	 margin: 20px;
+     padding: 20px;
+}
+.van h1{
+      color: red;
+}
+.van p{
+      color: grey;
+}
+h1{
+	color: blue;
+	margin: 20px;
+	padding: 22px;
+}
+p{
+	color: red;
+	font-size: 10px;
+	margin: 20px;
+	padding: 22px;
+}
